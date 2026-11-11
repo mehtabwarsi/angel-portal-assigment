@@ -4,7 +4,7 @@ A React website built with Vite. It presents Ascencia Business School, its progr
 
 ## View the deployed site
 
-[Open the deployed website](angel-portal-assigment.vercel.app)
+[Open the deployed website](https://angel-portal-assigment.vercel.app/)
 
 If the link takes you to a Vercel login page, the deployment may be restricted to authorized users. Sign in with an account that has access, or run the project locally using the steps below.
 
