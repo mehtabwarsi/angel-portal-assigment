@@ -20,7 +20,7 @@ If the link takes you to a Vercel login page, the deployment may be restricted t
 Open a terminal in the project folder and run:
 
 ```bash
-npm ci
+npm install
 npm run dev
 ```
 
