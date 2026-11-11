@@ -1,18 +1,55 @@
-# React + Vite
+# Ascencia Business School Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React website built with Vite. It presents Ascencia Business School, its programs, campuses, student stories, events, and contact information.
 
-Currently, two official plugins are available:
+## View the deployed site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Open the deployed website](https://angel-portal-assigment-f6ie8u1dx-mehtabwarsis-projects.vercel.app/)
 
-## React Compiler
+If the link takes you to a Vercel login page, the deployment may be restricted to authorized users. Sign in with an account that has access, or run the project locally using the steps below.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Run the project locally
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# angel-portal-assigment
-# angel-portal-assigment
+- [Node.js](https://nodejs.org/) (which includes npm)
+- The project source code on your computer
+
+### Start the development server
+
+Open a terminal in the project folder and run:
+
+```bash
+npm ci
+npm run dev
+```
+
+Vite prints a local URL in the terminal, usually <http://localhost:5173/>. Open it in your browser. The development server updates the page as you edit the source files.
+
+### Build and preview
+
+To create and preview a production build:
+
+```bash
+npm run build
+npm run preview
+```
+
+The preview command prints the local URL to open.
+
+### Lint
+
+```bash
+npm run lint
+```
+
+## Project structure
+
+- `src/App.jsx` — page content, navigation, and React components
+- `src/App.css` and `src/index.css` — styles
+- `src/main.jsx` — React application entry point
+- `public/assets/` — images and other static assets
+- `vite.config.js` — Vite configuration
+- `vercel.json` — Vercel routing configuration
+
+The site includes home, presentation, and contact views. The contact form is a demo: it does not send or store form data. Use the official Ascencia contact link on the page to submit a real request.
