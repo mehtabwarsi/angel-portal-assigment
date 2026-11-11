@@ -1,0 +1,61 @@
+|-- .gitignore
+|-- dist.zip
+|-- eslint.config.js
+|-- index.html
+|-- package.json
+|-- public
+    |-- Ascencia-Business-School-Logo.svg
+    |-- assets
+        |-- 2022
+            |-- 11
+                |-- 00-aacsb-member-l-a.webp
+                |-- 00-bga-member-l-a.webp
+                |-- 00-efmd-member-l-a.webp
+                |-- Ascencia-15-1024x683.jpg
+                |-- Ascencia-7-1-1024x683.jpg
+                |-- Ascencia-Business-School-Logo.svg
+                |-- BSIS-Partners-001-abs.webp
+                |-- campus-marne-la-vallee-min.jpg
+                |-- campus-paris-la-defense-m.jpg
+                |-- campus-saint-quentin-min.jpg
+                |-- erasmus-p-001-abs.webp
+                |-- France-Competences-Logo.png
+                |-- logo_CEFDG-1.webp
+                |-- offres-alternance-ban.jpg
+            |-- 12
+                |-- Ascencia-Banner-8.jpg
+                |-- portrait-kilian-b3.jpg
+                |-- portrait-moniqua-hp.jpg
+                |-- portrait-stephanie-ms.jpg
+        |-- 2023
+            |-- 01
+                |-- auchan-logo.png
+                |-- axa-logo.png
+                |-- bg-abs-2023.jpg
+                |-- la-poste-logo.png
+                |-- lcl-logo.png
+                |-- loreal-logo.png
+                |-- sncf-logo.png
+                |-- societe-generale-logo.png
+                |-- vinci-logo.png
+            |-- 02
+                |-- Ascencia-Banner-hp-10.jpg
+            |-- 09
+                |-- A090511-1024x640.jpg
+        |-- 2026
+            |-- 11
+                |-- comment-choisir-ecole-de-commerce-1024x572.webp
+                |-- metiers-finance-entreprise-1024x572.webp
+    |-- favicon.svg
+    |-- icons.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.jsx
+    |-- assets
+        |-- hero.png
+        |-- react.svg
+        |-- vite.svg
+    |-- index.css
+    |-- main.jsx
+|-- vite.config.js
